@@ -22,7 +22,7 @@
 <p align="left"></p>
 
 - GitHub: [**Hamza Asif**](https://github.com/hamza-asif22)
-- LinkedIn: [**Hamza-Asif-Baig**](www.linkedin.com/in/hamza-asif-baig-a23512276)
+- LinkedIn: [**Hamza-Asif-Baig**](https://www.linkedin.com/in/hamza-asif-baig-a23512276/)
 
 ###
 
