@@ -45,14 +45,9 @@
 
 ---
 
-### 🎓 Education
-
-- **B.S. in Software Engineering** – COMSATS University, Lahore (2022–2025)  
-  CGPA: 2.89  
-- **FSc Pre-Engineering** – A+ Grade (2019–2021)
-
+###
+Portfolio: https://hamzaab-portfolio.netlify.app/
 ---
-
 ### 📫 Connect With Me
 
 - 📧 Email: **hamzaasifbaig190@gmail.com**
