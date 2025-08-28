@@ -2,7 +2,7 @@
  𝓗𝓲 , 𝓘'𝓶 𝓗𝓪𝓶𝔃𝓪 𝓐𝓼𝓲𝓯 𝓑𝓪𝓲𝓰 
 </h1>
 
-<h3 align="center">🎓 Final Year Software Engineering Student | 💻 MERN Stack & AI Developer | 📍 Lahore, Pakistan</h3>
+<h3 align="center">🎓 Final Year Software Engineering Student | 💻 Flutter APP & AI Developer | 📍 Lahore, Pakistan</h3>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
